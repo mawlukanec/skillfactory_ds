@@ -14,6 +14,8 @@
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
 
+(https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+
 https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_dependence_on_education.html
 ### Какой кейс решаем?
 Определяем факторы, влияющие на размер желаемой зарплаты.
