@@ -8,23 +8,18 @@
 [5. Результат](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
 [6. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
 
+
 ### Описание проекта   
 Анализ вакансий с сайта hh.ru. Ссылка на файл: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
 Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
-https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
 
-https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление
-
-https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_dependence_on_education.html
 ### Какой кейс решаем?
 Определяем факторы, влияющие на размер желаемой зарплаты.
 
 ### Краткая информация о данных
-
 Данные соискателей: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
 Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
   
@@ -42,6 +37,8 @@ https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_
 ### Результаты:
 Получаем очищенную от выбросов таблицу с преобразованными признаками
 
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
+
 
 ### Выводы:  
 В ходе обработки исходных данных с резюме соискателей была проведена работа в части разделения данных на категории, желаемая з/п переведена в единый стандарт - руб., в соответствии с действующим курсом валют на момент размещения резюме. Итоговая таблица очищена от дублирующих признаков и была проведена работа по исключению/заполнению пропущенных данных. Построены диаграммы, отражающие распределения признаков, и их взаимосвязи.
@@ -51,7 +48,7 @@ https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_
 - мобильность;
 - пол
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
