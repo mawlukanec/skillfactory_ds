@@ -14,7 +14,10 @@
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
 
-(https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5
+
+https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление
 
 https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_dependence_on_education.html
 ### Какой кейс решаем?
@@ -25,7 +28,7 @@ https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_
 Данные соискателей: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
 Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
   
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -33,7 +36,7 @@ https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_
 2 - Преобразуем данные создавая новые признаки
 3 - Исследование зависимостей в данных
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:
