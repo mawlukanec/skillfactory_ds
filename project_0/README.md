@@ -21,6 +21,7 @@
 
 ### Краткая информация о данных
 Данные соискателей: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
+
 Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
