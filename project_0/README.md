@@ -8,7 +8,7 @@
 [5. Результат](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
 [6. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
 
-### Описание проекта    
+### Описание проекта    0
 Угадать загаданное компьютером число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
