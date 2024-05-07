@@ -13,7 +13,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
 
-
+https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_dependence_on_education.html
 ### Какой кейс решаем?
 Анализ вакансий с сайта hh.ru путем преобразования признаков таблицы, построения графиков, а также удалением/заполнением пропусков и фильтрацией выбросов.
 
@@ -43,7 +43,7 @@
 
 
 ### Результаты:
-  
+
 Получаем усредненное значение количества попыток угадывания числа 
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
