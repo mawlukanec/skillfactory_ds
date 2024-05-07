@@ -8,28 +8,20 @@
 [5. Результат](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
 [6. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
 
-### Описание проекта    
-Анализ вакансий с сайта hh.ru. Расположение файла: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
+### Описание проекта   
+Анализ вакансий с сайта hh.ru. Ссылка на файл: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
+Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
 
 https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_dependence_on_education.html
 ### Какой кейс решаем?
-Анализ вакансий с сайта hh.ru путем преобразования признаков таблицы, построения графиков, а также удалением/заполнением пропусков и фильтрацией выбросов.
-
-**Условия соревнования:**  
-- Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под «угадать», подразумевается «написать программу, которая угадывает число».
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-
-**Метрика качества**     
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**     
-Учимся писать хороший код на python
-
+Определяем факторы, влияющие на размер желаемой зарплаты.
 
 ### Краткая информация о данных
-....
+
+Данные соискателей: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
+Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
   
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
 
@@ -43,10 +35,7 @@ https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/plotly/Salary_
 
 
 ### Результаты:
-
-Получаем усредненное значение количества попыток угадывания числа 
-
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Оглавление)
+Получаем очищенную от выбросов таблицу с преобразованными признаками
 
 
 ### Выводы:  
