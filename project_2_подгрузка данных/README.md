@@ -35,9 +35,13 @@ project_2_подгрузка данных/README.md
 
 ### Этапы работы над проектом 
 1 - Предварительный анализ данных
+
 2 - Детальный анализ вакансий
+
 3 - Анализ работодателей
+
 4 - Предметный анализ
+
 5 - Дополнительные исследования по проекту
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
