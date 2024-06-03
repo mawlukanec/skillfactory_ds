@@ -1,6 +1,6 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
-## Оглавление  
+### Оглавление  
  
 [1. Описание проекта](https://github.com/mawlukanec/skillfactory_ds/tree/main/project_2_подгрузка%20данных#описание-проекта)
 
