@@ -2,9 +2,9 @@
 
 ## Оглавление  
  
-[1. Описание проекта](https://github.com/github.com/mawlukanec/skillfactory_ds/blob/main/project_2_подгрузка%20данных/README.md#описание%20проекта)
+[1. Описание проекта](https://github.com/mawlukanec/skillfactory_ds/tree/main/project_2_подгрузка%20данных#описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/github.com/mawlukanec/skillfactory_ds/blob/main/project_2_подгрузка%20данных/README.md#какой%20кейс%20решаем?)
+[2. Какой кейс решаем?](github.com/mawlukanec/skillfactory_ds/tree/main/project_2_подгрузка%20данных#Какой-кейс-решаем?)
 
 [3. Краткая информация о данных](https://github.com/github.com/mawlukanec/skillfactory_ds/blob/main/project_2_подгрузка%20данных/README.md#краткая%20информация%20о%20данных)
 
@@ -15,7 +15,7 @@
 ### Описание проекта   
 Анализ вакансий из HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/github.com/mawlukanec/skillfactory_ds/blob/main/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/tree/main/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
 
 
 ### Какой кейс решаем? 
