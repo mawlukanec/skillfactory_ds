@@ -1,14 +1,19 @@
-# Проект 1. Анализ вакансий на hh.ru
+# Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Описание-проекта)  
 [2. Какой кейс решаем?](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
-
-
+[3. Предварительный анализ данных](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Краткая-информация-о-данных) 
+[4. Выводы по предварительному анализу данных](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Этапы-работы-над-проектом)
+[5. Детальный анализ вакансий](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
+[6. Выводы по детальному анализу вакансий](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
+[7. Анализ работодателей](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
+[8. Выводы по анализу работодателей](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
+[9. Предметный анализ](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
+[10. Выводы по предметному анализу](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
+[11. Дополнительные исследования по проекту](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
+[12.  Выводы из дополнительного исследования](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
+[13. Общий вывод по проекту](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Выводы) 
 ### Описание проекта   
 Анализ вакансий с сайта hh.ru. Ссылка на файл: https://drive.google.com/file/d/1HMh0YB3Xsz-0G2uPnd5Cc7T3YvxoYI86/view?usp=sharing
 Курсы валют: https://drive.google.com/file/d/1mXUqB3jYz4Br6P_H2Yqmw5w_QzsguJte/view?usp=sharing
