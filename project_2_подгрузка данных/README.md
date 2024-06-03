@@ -1,24 +1,23 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Описание-проекта)
-
-[2. Какой кейс решаем?](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Какой-кейс-решаем) 
-
-[3. Краткая информация о данных](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.)
-
-[4. Этапы работы над проектом](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Краткая-информация-о-данных) 
-
-[5. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат)    
+[1. Описание проекта](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md);
+[2. Какой кейс решаем?](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md#%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%BA%D0%B5%D0%B9%D1%81-%D1%80%D0%B5%D1%88%D0%B0%D0%B5%D0%BC);
+[3. Краткая информация о данных](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.);
+[4. Этапы работы над проектом](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Краткая-информация-о-данных); 
+[5. Выводы](https://github.com/mawlukanec/sf_new/blob/main/project_0/README.md#Результат);  
 
 ### Описание проекта   
 Анализ вакансий из HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](hhttps://github.com/mawlukanec/skillfactory_ds/blob/main/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Какой кейс решаем?
 Анализируем базу данных при помощи SQL-запросов, выявляем взаимосвязи.
+
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+
 
 ### Краткая информация о данных
 
@@ -26,7 +25,7 @@
 Города-миллионники:  https://ru.wikipedia.org/wiki/Города-миллионеры_России
 Наукограды России: https://ru.wikipedia.org/wiki/Наукограды_России
   
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/main/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
 
 ### Этапы работы над проектом 
