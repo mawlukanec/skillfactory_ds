@@ -14,13 +14,13 @@ project_2_подгрузка данных/README.md
 ### Описание проекта   
 Анализ вакансий из HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
 ### Какой кейс решаем?
 Анализируем базу данных при помощи SQL-запросов, выявляем взаимосвязи.
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
 ### Краткая информация о данных
@@ -29,7 +29,7 @@ project_2_подгрузка данных/README.md
 Города-миллионники:  https://ru.wikipedia.org/wiki/Города-миллионеры_России
 Наукограды России: https://ru.wikipedia.org/wiki/Наукограды_России
   
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
 ### Этапы работы над проектом 
@@ -39,7 +39,7 @@ project_2_подгрузка данных/README.md
 4 - Предметный анализ
 5 - Дополнительные исследования по проекту
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
 ### Выводы:  
@@ -53,7 +53,7 @@ project_2_подгрузка данных/README.md
 
 - Для дальнейшего анализа интересно посмотреть взаимосвязи в разрезе опыта, количестве ключевых навыков, уровня зарплаты по крупным IT команиям.
 
-:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#оглавление)
+:arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
