@@ -1,6 +1,7 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
-## Оглавление  
+## Оглавление 
+ 
 [1. Описание проекта](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_подгрузка%20данных/README.md#какой-кейс-решаем)
@@ -17,7 +18,7 @@ project_2_подгрузка данных/README.md
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
 
 
-### Какой кейс решаем?
+### Какой кейс решаем? 
 Анализируем базу данных при помощи SQL-запросов, выявляем взаимосвязи.
 
 :arrow_up:[к оглавлению](https://github.com/mawlukanec/skillfactory_ds/blob/bdc38393d9fbd32daad115f1c5aa9dce6b4c576b/project_2_%D0%BF%D0%BE%D0%B4%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85/README.md)
